@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Cloudflare-logo-vector.svg/1200px-Cloudflare-logo-vector.svg.png" width="200px" height="80px">
+</p>
 <h1 align="center">Local2Net</h1>
 
 <p align="center">
@@ -58,6 +61,6 @@ apt install wget curl unzip php ruby python nodejs -y && npm install http-server
  - Custom port
 
 ### [+] Find me on 
-<a href="mailto://snehkr.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-snehkrkrd@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+<a href="mailto://snehkr.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-snehkr.official@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
 <a href="https://t.me/snehkr" target="_blank"><img src="https://img.shields.io/badge/Messenger-snehkr-blue?style=for-the-badge&logo=messenger"></a>
