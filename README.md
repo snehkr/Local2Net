@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Cloudflare-logo-vector.svg/1200px-Cloudflare-logo-vector.svg.png" width="200px" height="80px">
+<img src="https://logos-world.net/wp-content/uploads/2022/04/Cloudflare-Logo.png" width="200px" height="120px">
 </p>
 <h1 align="center">Local2Net</h1>
 
